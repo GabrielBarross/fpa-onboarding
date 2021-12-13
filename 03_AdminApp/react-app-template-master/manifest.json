@@ -1,0 +1,21 @@
+{
+  "vendor": "vtex",
+  "name": "admin-fpa",
+  "version": "0.0.0",
+  "title": "ADMIN FPA",
+  "description": "ADMIN FPA",
+  "builders": {
+    "react": "3.x",
+    "messages": "1.x",
+    "docs": "0.x",
+    "admin": "0.x",
+    "graphql": "1.x",
+    "node": "6.x"
+  },
+  "dependencies": {
+    "vtex.styleguide": "9.x"
+  },
+  "registries": ["smartcheckout"],
+  "policies": [],
+  "$schema": "https://raw.githubusercontent.com/vtex/node-vtex-api/master/gen/manifest.schema"
+}
