@@ -1,5 +1,11 @@
 {
   "countdown-fpa": {
     "component": "Countdown"
+  },
+  "countdown-fpa.title": {
+    "component": "Title"
+  },
+  "countdown-product-fpa": {
+    "component": "CountdownProduct"
   }
 }

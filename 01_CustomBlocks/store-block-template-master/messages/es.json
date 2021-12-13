@@ -1,5 +1,8 @@
 {
   "editor.countdown.title": "Cuenta regresiva",
   "editor.countdown.description": "Cuenta regresiva component",
+
+  "editor.countdown-title.title": "Cuenta Regresiva Nombre",
+  "editor.countdown-title.description":  "Cuenta Regresiva Nombre",
   "countdown.title": "Cuenta Regresiva Prueba FPA"
 }

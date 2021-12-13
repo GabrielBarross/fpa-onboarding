@@ -1,5 +1,8 @@
 {
   "editor.countdown.title": "Countdown",
   "editor.countdown.description": "Countdown component",
+
+  "editor.countdown-title.title": "Countdown Title",
+  "editor.countdown-title.description": "Countdown Title",
   "countdown.title": "Countdown Test FPA"
 }
