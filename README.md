@@ -5,8 +5,11 @@
 - FAST STORE GET READY (doc, hands-on)
 - SERVICES AND TS (video, hands-on)
 
-### NICE DOCS AND SITES TO KEEP TRACK OF :)
+### NICE DOCS AND SITES TO KEEP TRACK :)
 - [NODE - VTEX Clients](https://github.com/vtex/io-clients)
+
+- [REACT - Using React Icons](https://www.freecodecamp.org/news/how-to-use-svg-icons-in-react-with-react-icons-and-font-awesome/)
+- [REACT - React Icons Docs](https://github.com/react-icons/react-icons#configuration)
 
 - [GRAPHQL - Queries and Mutations](https://graphql.org/learn/queries/)
 
