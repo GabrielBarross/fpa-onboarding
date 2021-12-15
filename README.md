@@ -6,6 +6,9 @@
 - FAST STORE VIDEO TRAINING (video)
 - SERVICES AND TS (video, hands-on)
 
+## MUST READ ARTICLES FINISHED
+- How to structure your tests
+
 ### NICE DOCS AND SITES TO KEEP TRACK :)
 - [NODE - VTEX Clients](https://github.com/vtex/io-clients)
 
@@ -20,4 +23,6 @@
 - [JSON - Debugger](https://jwt.io/)
 
 - [GATSBY - SourceNode](https://www.gatsbyjs.com/docs/reference/config-files/gatsby-node/)
+
+- [TESTS - How to structure](https://codeutopia.net/blog/2017/05/15/quick-javascript-testing-tip-how-to-structure-your-tests/)
 
