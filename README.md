@@ -26,3 +26,15 @@
 
 - [TESTS - How to structure](https://codeutopia.net/blog/2017/05/15/quick-javascript-testing-tip-how-to-structure-your-tests/)
 
+### STACKOVERFLOW
+
+- [JAVASCRIPTS - Differences between require and import](https://pt.stackoverflow.com/questions/213910/javascript-diferen%C3%A7as-entre-import-e-require)
+
+
+### VACATION COURSES :)
+
+- [NODE JS FUNDAMENTALS](https://app.egghead.io/lessons/node-js-create-a-simple-node-js-module?pl=learn-the-fundamentals-of-node-js-for-beginners-7b6f4282)
+- [EXPRESS JS GETTING STARTED](https://egghead.io/courses/getting-started-with-express-js)
+- [EXPRESS BUILDING AN API](https://egghead.io/courses/building-an-api-with-express-f1ea)
+- [NEXTJS DOCS](https://nextjs.org/)
+- [GATSBY DOCS](https://www.gatsbyjs.com/)
