@@ -38,3 +38,4 @@
 - [EXPRESS BUILDING AN API](https://egghead.io/courses/building-an-api-with-express-f1ea)
 - [NEXTJS DOCS](https://nextjs.org/)
 - [GATSBY DOCS](https://www.gatsbyjs.com/)
+- VACATION PROJECT?
